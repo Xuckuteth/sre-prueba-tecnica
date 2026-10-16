@@ -1,0 +1,14 @@
+﻿HTTP/1.1 200 OK
+Server: TwistedWeb/26.4.0
+Date: Fri, 16 Oct 2026 16:37:12 GMT
+Content-Type: application/json
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+X-Cache: MISS
+Content-Length: 299
+x-amzn-RequestId: 8eef73a7-88a1-40f1-a591-b9e421d742d7
+x-amz-apigw-id: 4cf181cc=
+X-Amzn-Trace-Id: Root=1-6ad252b8-15b74bd827e862a6491de99b;Parent=90180ddd5a8d6f3d;Sampled=0
+x-localstack: 2026.10.0
+
+{"id": "f5dfdb2d3b", "status": "processed", "processed_at": "2026-10-16 16:37:14", "input_payload": {"raw_content": "{id: 101, payload: prueba-sre}"}, "hash_signature": "bc3e6a36e7671a64a5ff1f48a7dfe06af65a17ed61d0c8dd7ac4b7520d5d4cac", "message": "Procesado correctamente por Lambda en LocalStack"}
